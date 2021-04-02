@@ -1,0 +1,20 @@
+
+h1 {
+  font-size: 150px; color: white;
+  text-decoration: underline;
+  
+  
+}
+
+p{
+	font-size: 20px; color: lightblue;
+  text-decoration: underline;
+  
+}
+
+
+body
+ {
+background: url(icha.jpeg) black bottom right no-repeat;
+
+}
